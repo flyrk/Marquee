@@ -1,3 +1,5 @@
 # extral files
-.vscode
+.vscode/
+
+# extral
 .DS_Store
